@@ -1,0 +1,727 @@
+========== Page 1 ==========
+
+Journal of Research on Technology in Education
+ISSN: 1539-1523 (Print) 1945-0818 (Online) Journal homepage: www.tandfonline.com/journals/ujrt20
+The mediating eﬀects of engagement on the
+relationship between perceived digital inquiry
+and creativity
+Xiaojing Weng & Thomas K. F. Chiu
+To cite this article: Xiaojing Weng & Thomas K. F. Chiu (2024) The mediating eﬀects of
+engagement on the relationship between perceived digital inquiry and creativity, Journal of
+Research on Technology in Education, 56:4, 431-443, DOI: 10.1080/15391523.2022.2160392
+To link to this article:  https://doi.org/10.1080/15391523.2022.2160392
+Published online: 03 Jan 2023.
+Submit your article to this journal 
+Article views: 627
+View related articles 
+View Crossmark data
+Citing articles: 9 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ujrt20
+
+========== Page 2 ==========
+
+Journal of research on Technology in educa Tion
+2024, Vol. 56, no . 4, 431– 443
+                                          The mediating effects of engagement on the relationship 
+between perceived digital inquiry and creativity
+Xiaojing Weng  and Thomas K. F. Chiu 
+The chinese university of hong Kong, shatin, hong Kong
+   ABSTRACT
+Students’ perceived competencies may reflect dispositions to trigger and 
+enhance engagement acts and promote engagement benefits. Although 
+perceived competencies and engagement acts are significant resources in 
+STEM learning, their relationships remain unclear. Accordingly, we applied 
+the transactional model of engagement (TME) to examine these associations, 
+focusing on how emotional and cognitive engagement affect the mediating 
+effect of perceived digital inquiry on perceived creativity. The participants 
+were 305 secondary school STEM learners in Hong Kong. Mediation analyses 
+showed that emotional engagement mediated the positive relationship 
+between perceived digital inquiry and creativity, whereas cognitive engage -
+ment had no such mediating effect.
+  Introduction
+ Individuals’ perceptions of their creativity are considered to have significant effects on improve -
+ments in their creative performance, problem-solving, and academic achievement (Anderson & 
+Haney,  2021 ; Zhou et al.,  2014 ). As creativity is a critical learning outcome of STEM education 
+(Weng, Chiu, & Jong,  2022 ; Honey et al.,  2014 ), we regard STEM learning as a potential envi -
+ronment that cultivates the factors associated with student creativity. For instance, in the context 
+of STEM learning, students’ self-related factors including perceived digital inquiry and engagement 
+with learning tasks are essential agents of creativity development (de Jong et al.,  2021 ;  Yang 
+et al.,  2020 ). Fostering this development requires the process of intentionally gaining new insights 
+and different ideas through existing information (Pande & Bharathi,  2020 ). In the process, stu -
+dents feel empowered to develop more ideas when embedding digital technologies into STEM 
+education (Weng, Cui, et al.,  2022 ; Weng, Chiu, & Tsang,  2022 ).
+ The digital technologies create more authentic learning and assessment and can better engage 
+students in inquiry-based learning (Lindgren, & Johnson-Glenberg,  2013 ). For example, the 
+students who perceive stronger self-efficacy in using digital tools for inquiry-based learning 
+(referred to as perceived digital inquiry) are likely to have more new ideas and feel they can 
+create something new. Moreover, student engagement is the key to creativity development in 
+STEM education (Weng, Chiu, & Tsang, 2022). Student engagement is multifaceted with major 
+dimensions including behavioral, emotional, and cognitive. Emotional and cognitive engagement 
+are relatively more influential on student creativity development (Orkibi & Ram-Vlasov,  2019 ). 
+Students engaging in fun and interesting learning environments (i.e., emotional engagement) are 
+more curious, and always want to learn and see STEM problems from multiple perspectives 
+(Gallagher & Grimm,  2018 ). Students who are willing and able to take on challenges (cognitive 
+engagement) keep improving their ideas when solving STEM problems (Guan et al.,  2021 ).
+© 2023 isTe  
+CONTACT Thomas K. f . chiu  thomas.kf.chiu@gmail.com   The chinese university of hong Kong, shatin, hong Kong
+https://doi.org/10.1080/15391523.2022.2160392
+ARTICLE HISTORY
+Received 12 April 2022
+Revised 6 December 
+2022
+Accepted 7 December 
+2022
+KEYWORDS
+Self-determination 
+theory; STEM education; 
+creativity; engagement; 
+digital education; 
+inquiry-based learning; 
+mediating effect
+
+========== Page 3 ==========
+
+432 X. WENG AND T. K. F. CHIU
+Accordingly, how students perceive their digital inquiry competence, and emotional and 
+cognitive engagement in learning could affect their creative thinking in STEM education. It is 
+necessary to understand how these factors relate to creativity. This gap is supported by recent 
+studies advocating that student perceptions of digital inquiry, emotional engagement, and cog -
+nitive engagement have received growing attention in STEM education research (Händel et al., 
+ 2022 ; Howard et al.,  2016 ). However, most of the engagement-related previous studies in STEM 
+education used the different dimensions of student engagement as the final outcomes (Chiu, 
+ 2022 ; Chiu et al.,  2022 ; Hall & Miro,  2016 ; Struyf et al.,  2019 ). Very few studies used emotional 
+and cognitive engagement as mediators. Furthermore, most related studies that have investigated 
+perceived competencies and engagement were conducted in higher education or non-interdisciplinary 
+contexts (Y ang et al., 2020; Zhou et al., 2014). Student engagement is an important mediator in 
+adolescent learning (Chiu, 2022 ; Chiu et al., 2022 ). Therefore, the generalizability of the findings 
+of these studies to STEM learning in K-12 settings merits exploration (Lawson & Lawson,  2013 ).
+The transactional model of engagement (TME) offers a framework to explain the relationships 
+between various perceived competencies that lead to and benefit from engagement acts (Lawson 
+& Lawson, 2013). Accordingly, this study investigates creativity in digital learning environments 
+through STEM school education from a different perspective—student engagement as mediators. 
+It uses the TME as the theoretical framework to (i) investigate the direct associations between 
+perceived digital inquiry, emotional engagement, cognitive engagement, and perceived creativity 
+and (ii) examine the mediating effects of emotional and cognitive engagement on the association 
+between perceived digital inquiry and creativity.
+  The proposed research model
+This section explains what the TME is and proposes a research model with hypotheses.
+  The TME framework and engagement-related studies
+The TME framework provides a transactional view of student engagement. In this view, the 
+engagement process consists of four main components. They are acts of engagement, benefits 
+of engagement, dispositions for engagement, and conditions/contexts of engagement. Each of 
+these components is linked by a temporal dimension. First, act of engagement refers to the 
+various states of experience of individuals. It states how students’ experiences lead to their states 
+such as joy, fun, boredom, and disinterest (Bempechat & Shernoff,  2012  ; Pekrun & 
+Linnenbrink-Garcia, 2012). This component includes behavioral, cognitive and emotional engage -
+ment. Second, the idea of benefits of engagement refers to the outcomes of engagement-related 
+acts. The quality of experiences directly determines whether students receive the benefits from 
+each of the acts. The benefits are seen as student proximal outcomes; they are either obscure 
+or solid, such as feelings, belongings, competencies, academic achievements, and participation. 
+Third, the notion of dispositions for engagement refers to students’ perceptions of the “will” 
+and “skill” they bring to an activity, including motivation, interests, self-directed learning, and 
+language proficiency. Students’ prior learning experiences are influential factors important to 
+these perceptions (Taines,  2012 ). Finally, an engagement disposition is developmental, which is 
+highly influenced by engagement’s surrounding conditions, cultures, and contexts. These ideas 
+are conditions/contexts of engagement. Lawson and Lawson ( 2013) state that the TME is a new 
+and contemporary conceptual framework for student engagement research and practice.
+K-12 students are adolescents, and their engagement is the key to their STEM learning as its 
+multifaceted nature affects their outcomes in different ways. However, most of the engagement-related 
+studies use the different dimensions of engagement as final outcomes, particularly in STEM edu -
+cation (Chiu, 2022; Chiu et al., 2022; Hall & Miro, 2016; Struyf et al., 2019). Very few used different 
+dimensions of engagement as mediators explaining relations between perceived competencies and 
+learning outcomes. This gap can be addressed by the TME. As in the current study, participants
+
+========== Page 4 ==========
+
+JoURNAl oF  RESEARCH  oN  TECHNoloGy IN  EDUCATIoN 433
+had a similar social-cultural background and the learning context, and the research goal focuses 
+on specific constructs representing the first three engagement components and their connections. 
+Based on the TME, we propose that positively perceived digital inquiry competencies can trigger 
+and encourage students’ emotional and cognitive engagement, leading to engagement benefits from 
+the positive affect associated with stronger self-perceived creativity, see  Figure 1  . The following 
+defines each of the constructs and discusses the proposed research model for this study.
+  Perceived digital inquiry
+Perceived digital inquiry is defined as students’ perceptions of their competencies in using digital 
+tools to conduct inquiry activities in various learning contexts (de Jong et al., 2021). Some STEM 
+education studies have suggested that students tend to perceive stronger digital inquiry when they 
+have opportunities to explore or interact with technological tools (Bruce & Casey,  2012 ; de Jong 
+et al., 2021). Perceiving stronger digital inquiry usually implies successful interactions or experiences 
+with digital learning environments, resulting in more positive dispositions toward learning institutions 
+such as schools (Porat et al.,  2018 ). According to the TME, perceived digital inquiry can be regarded 
+as an engagement disposition that fosters students’ acts of engagement (Lawson & Lawson, 2013).
+  Emotional and cognitive engagement
+In the TME, acts of engagement indicate the various states that students can experience, from 
+flow-like experiences to feelings of boredom or disinterest, as they participate in learning activities 
+(Lawson & Lawson, 2013 ). This study focuses on acts of emotional engagement and cognitive 
+engagement, which are crucial psychological resources for student learning (Pietarinen et al.,  2014 ). 
+Emotional engagement concerns individuals’ affection during learning activities, which involves 
+both positive and negative emotions (Ninaus et al.,  2019 ). Cognitive engagement reflects students’ 
+willingness to make efforts to understand learning content and master skills (Li et al.,  2021 ). These 
+two types of engagement interact with each other (Chiu,  2021 , 2022 ; Chiu et al., 2022 ;  Dubovi & 
+Tabak, 2021 ; Hong et al.,  2020 ). Moreover, they are significant resources that facilitate the creative 
+process of student learning (Álvarez-Huerta et al.,  2021 ; Sun,  2020 ). As creativity is a major out -
+come of STEM activities (Honey et al., 2014 ), emotional engagement and cognitive engagement 
+have received increasing research attention in STEM-related areas (Fredricks et al.,  2018 ).  
+  Perceived creativity
+ Studies have categorized creativity in terms of two constructs: self-perceptions of creativity (i.e., 
+perceived creativity; Silvia et al.,  2012 ) and domain-specific creativity (i.e., creativity performance; 
+Barbot,  2020 ). Perceived creativity refers to the creative skills that students believe they possess. 
+This perception indicates how learners think of their abilities to generate ideas that are inno -
+vative and useful (Kaufman et al.,  2016 ; Laguía et al.,  2019 ). Kaufman ( 2019 ), Laguía et al. ( 2019 ), 
+and Silvia et al. ( 2012) suggested that perceived creativity can foster creative performance. 
+Correlations have been found between students’ self-beliefs about their creativity and their 
+  Figure 1.       TMe framework of student engagement dispositions, acts, and benefits (adapted from lawson & lawson, 2013 ).
+
+========== Page 5 ==========
+
+434 X. WENG AND T. K. F. CHIU
+divergent thinking, self-rated creativity, and self-reported creative activities (Chiu, 2022; Chiu et 
+al., 2022; Kaufman et al., 2016). Because of the significance of perceived creativity, it was chosen 
+as the measured outcome of engagement acts in this study.
+Two types of self-rated factors that influence individuals’ judgments about their efforts and 
+accomplishments relating to creativity have been identified (Kaufman et al., 2016). The first 
+concerns being aware of one’s own strengths and weaknesses related to creativity, both within 
+a specific area (e.g., perceived digital inquiry) and as a general attribute. The other concerns 
+knowing when, where, how, and why to be creative by considering the social contextual interplay 
+(i.e., engagement interactions with the learning tasks). Both self-rated factors interact with each 
+other in the development of creativity (Fischer et al.,  2019 ; Richter et al.,  2012 ). Therefore, 
+research on perceived creativity should simultaneously consider these two factors. In this study, 
+we emphasize the interactions between the two self-rated factors by examining how perceived 
+digital inquiry and emotional and cognitive engagement with learning tasks explain perceived 
+creativity in STEM learning.
+  Relationships between perceived digital inquiry, emotional engagement, 
+cognitive engagement, and perceived creativity
+Studies have reported associations between perceived digital inquiry, emotional engagement, 
+cognitive engagement, and perceived creativity. Perceived digital inquiry has been shown to have 
+large positive direct effects on students’ emotional and cognitive engagement (Marty et al.,  2013 ; 
+Wu & Wu,  2020 ). For instance, a survey-based study of 605 secondary school students in Taiwan 
+revealed that the students’ perceptions of their inquiry-related characteristics (e.g., curiosity) 
+were associated with different dimensions of engagement in a technology-facilitated science 
+laboratory context (Wu & Wu, 2020).
+ Many studies have demonstrated that emotional engagement and cognitive engagement are 
+related bidirectionally. For instance, Chiu et al. ( 2012 ) analyzed the Program for International 
+Student Assessment (PISA) data of immigrant children in 41 countries and reported that the 
+cognitive and emotional components of the students’ engagement were interconnected. Dubovi 
+and Tabak (2021 ) analyzed 14,700 trending Y ouTube videos about science topics and found that 
+the public’s emotional engagement and cognitive engagement in learning science via social media 
+were interrelated. Additionally, Hong et al. ( 2020) conducted a study of 789 Chinese primary 
+school students in which they distributed a mathematics engagement scale three times over a 
+1.5-year intervention. Their findings suggest that students’ cognitive and emotional engagement 
+influences each other over time.
+Moreover, perceived digital inquiry, emotional engagement, and cognitive engagement have 
+direct impacts on students’ self-perceived creativity. Some scholars have provided evidence that 
+students’ perceived digital inquiry and creativity are positively associated. For example, Hwang 
+et al. ( 2018 ) collected the perceptions of 658 high school students from Taiwan and found a 
+positive relationship between the students’ inquiry-related use of mobile phones and learning 
+behaviors and their tendency to engage in creativity. Furthermore, many researchers have reported 
+a positive relationship between students’ engagement and perceived creativity. Wang et al. ( 2022 ) 
+surveyed 542 postgraduate students in China and found that learning engagement involving 
+both emotional and cognitive components had a positive effect on the respondents’ self-reported 
+creativity. Similarly, in a study of 775 Spanish university students, Álvarez-Huerta et al. ( 2021) 
+investigated the association between the participants’ engagement, which had a cognitive focus, 
+and their creative confidence beliefs. They found that students with higher engagement were 
+more likely to have stronger creativity perceptions.
+ In addition, several studies have reported the mediating effects of engagement on the asso -
+ciation between students’ digital/media experience and their creativity development. For instance, 
+Malik et al. ( 2020 ) collected survey data from 334 undergraduate students in Chinese universities 
+and found that their intrinsic motivation, representing their emotional engagement, mediated
+
+========== Page 6 ==========
+
+JoURNAl oF  RESEARCH  oN  TECHNoloGy IN  EDUCATIoN 435
+the association between digital inquiry-related behavior and creativity. Likewise, Sun ( 2020) 
+conducted a survey of 652 undergraduate students in Chinese public universities and found that 
+the students’ cognitive engagement (i.e., time- and energy-related efforts) partially mediated the 
+relationship between digital inquiry-related behavior and self-reported creativity. These studies 
+suggest that both emotional engagement and cognitive engagement play mediating roles in the 
+relationship between perceived digital inquiry and creativity.
+ Although researchers have reported that perceived digital inquiry has strong associations with 
+emotional and cognitive engagement (Chiu & Churchill,  2015 ; Chiu et al.,  2020 ; Marty et al., 
+2013; Wu & Wu, 2020) and these associations can foster perceived creativity (Álvarez-Huerta 
+et al., 2021; Hwang et al., 2018; Wang et al., 2022), few studies have examined the relationships 
+between the engagement components of the TME in authentic educational practice. It is import -
+ant to investigate the associations between these variables (i.e., engagement dispositions, acts, 
+and benefits) from the perspectives of theoretical application and development. The aim of this 
+study was to investigate these associations.
+ Based on the studies described above, the following hypotheses are proposed (see  Figure 2   
+for a visual representation):
+•   H1: There is a positive association between perceived digital inquiry and emotional 
+engagement.
+•   H2: There is a positive association between perceived digital inquiry and cognitive 
+engagement.
+•   H3: There is a positive association between perceived digital inquiry and perceived 
+creativity.
+•   H4: There is a bidirectional association between emotional engagement and cognitive 
+engagement.
+•   H5: There is a positive association between emotional engagement and perceived 
+creativity.
+•   H6: There is a positive association between cognitive engagement and perceived 
+creativity.
+•   H7: Perceived digital inquiry is positively associated with perceived creativity via emotional 
+engagement.
+•   H8: Perceived digital inquiry is positively associated with perceived creativity via cognitive 
+engagement.
+  Methodology 
+  Research design and participants
+This study used a self-reported questionnaire to collect data. We recruited 336 students from 
+three Hong Kong secondary schools. The schools were purposely selected from 31 schools that 
+    Figure 2.       overview of hypotheses.
+
+========== Page 7 ==========
+
+436 X. WENG AND T. K. F. CHIU
+participated in a cross-sector STEM collaborative project of the local government, universities, 
+and secondary schools. Our selection criteria were (1) the schools should have similar academic 
+backgrounds with average learning performance in the Hong Kong education context; (2) the 
+teachers should have STEM educational backgrounds and receive teaching qualification in math -
+ematics, science, or computer science; and (3) the schools should teach all students STEM using 
+digital making activities, such as Scratch coding, traffic light system design or smart home design 
+activities using Arduino Kits and Microbits. The STEM digital making programs were integrated 
+into existing technology curricula in the schools. In addition to providing financial support and 
+professional development for the teachers to conduct STEM digital making activities, the edu -
+cation experts from the government, and two STEM education professors have formed a panel 
+to guide and evaluate the project implementation in the schools. We finally received 311 ques -
+tionnaires (a response rate of 92.6%) from the selected schools. After removing questionnaires 
+with missing values, 166 responses were retained from school A (Grade 2, female: n = 71; male: 
+n = 95), 56 from school B (Grade 1, female: n = 22; male: n = 34), and 83 from school C (Grade 
+1, female: n = 43; male: n = 40), for a total of 305 for analysis. Males accounted for 55.4% of the 
+sample (n = 169) and females for 44.6% (n = 136). All the students are Chinese.
+  Measures in the questionnaire
+The first part of the questionnaire collected demographic information such as the students’ 
+gender and school name. The second part consisted of items investigating perceived digital 
+inquiry, emotional engagement, cognitive engagement, and perceived creativity.
+The questionnaire included four measures, all of which were measured using 5-point Likert 
+scale items. The reliability and validity of the items are specified below. All the items were 
+translated into Chinese and checked by three teachers from the participating schools to ensure 
+that they were readable and understandable.
+ The measure of perceived digital inquiry was evaluated using items adapted from a study by 
+Ng ( 2012 ), who used self-perception measures to explore students’ digital literacy, with original 
+Cronbach’s alpha values α = .88, including acceptable reliability. These items were tested in the 
+study of the Chiu ( 2022) and Chiu et al. ( 2022) with similar background participants. They were 
+modified to fit the context of STEM education. The items for this dimension were “I am able 
+to use technology to test scientific explanations in my STEM project, ” “I am able to search and 
+combine various Internet resources to conduct scientific investigations, ” and “I am able to use 
+different technologies to research scientific topics” .
+ The measures of emotional engagement were evaluated using items adapted from the study 
+of Skinner et al. ( 2009 ), with acceptable reliability (α = . 82). The items were tested in the study 
+of the Chiu ( 2022) and Chiu et al. ( 2022) with similar background participants who had taken 
+part in online learning from different aspects. They were modified to fit our STEM education 
+context. The items for emotional engagement were “When doing STEM projects, I feel like I’m 
+doing something important to me, ” “I love having more time to work on my STEM projects, ” 
+and “I like to use my free time to think about my STEM projects” . Moreover, the items for 
+cognitive engagement were adapted from Wang et al. ( 2022) that validated and verified the items 
+to measure high school students’ cognitive engagement in science and mathematics, with accept -
+able reliability (α > .75). The items fitted our participants’ education level and subject domains 
+and were tested in the Hong Kong context (Chiu, 2022; Chiu et al., 2022). They were “I am 
+able to participate in different types of learning activities to make a good STEM project, ” “I am 
+able to complete the tasks planned for the STEM project promptly, ” and “I am able to enrich 
+my knowledge by talking to other people about STEM projects” .
+ The measure of perceived creativity was evaluated using items adapted from a study by Tan 
+et al. ( 2008 ), who investigated students’ creativity self-efficacy, with α =.80 (i.e., acceptable 
+reliability). We adapted the items for our STEM education context. The items for this dimen -
+sion were “I am able to come up with some innovative approaches or questions, ” “I can apply
+
+========== Page 8 ==========
+
+JoURNAl oF  RESEARCH  oN  TECHNoloGy IN  EDUCATIoN 437
+what I know in unknown situations, ” and “I can find new ideas from the information when 
+others are not inspired” .
+  Data collection procedure
+We obtained the participants’ consent before distributing the two-part questionnaire. The ques -
+tionnaire was distributed to the participants via an online platform with the help of the STEM 
+subject coordinators of the schools. The students were asked to submit a completed questionnaire 
+to the researcher within one week after it was distributed. The coordinators reminded the par -
+ticipants to respond to the items with close attention and to answer all the questions.
+  Results 
+  Construct validity and reliability
+This study is the first to adapt a scale involving the different perceived competencies and 
+engagement acts of STEM digital learners to the Hong Kong context. We tested whether the 
+factor loadings were consistent to validate their use in this context.
+Confirmatory factor analysis (CFA) using maximum likelihood estimation in Mplus 8.3 was 
+used to verify the scale structure and check whether the data were a satisfactory fit for the 
+measurement model. Various indices were used to evaluate the overall model fit (Hair,  2010 ). 
+The goodness-of-fit statistics for the scale suggested that the four-factor model fitted the data 
+well (χ2 = 118.82, df = 48, χ2/df = 2.48, CFI = .98, TLI = .97, SRMR = .02, RMSEA = .07). The 
+items’ factor loadings ranged from .57 to .80. As shown in  Table 1  , the Cronbach’s alpha values 
+of the four factors were .89 (perceived digital inquiry), .90 (emotional engagement), .88 (cognitive 
+engagement), and .91 (perceived creativity), indicating good internal consistency.
+  Descriptive and correlation analyses
+The descriptive statistics for the four factors examined are presented in Table 1. Perceived creativity 
+(M = 3.75, SD = .75) scored the highest among all the factors. Emotional engagement (M = 3.67, SD 
+= .75) had the lowest score. The mean score and standard deviation for cognitive engagement were 
+3.73 and .71, respectively, and those for perceived digital inquiry were 3.72 and .73.
+The correlation matrix of the four factors is shown in Table 1. There were significant positive 
+correlations between perceived digital inquiry and emotional engagement (r = .78, p < .01), 
+cognitive engagement (r = .85, p < .01), and perceived creativity (r = .80, p < .01); emotional 
+engagement and cognitive engagement (r = .81, p < .01) and perceived creativity (r = .80, p < 
+.01); and cognitive engagement and perceived creativity (r = .77, p < .01).
+  Mediation analysis
+We further investigated the direct and indirect relationships between different variables using 
+structural equation modeling (SEM). Perceived digital inquiry was the exogenous variable in the 
+proposed model (see Figure 2 ), and emotional engagement, cognitive engagement, and perceived 
+      Table 1.       descriptive statistics and correlation matrix (n = 305). 
+M sd c ronbach’s alpha 1 2 3 4
+1 PDI 3.72 .73 .89 1
+2 EE 3.67 .75 .90 .78** 1
+3 CE 3.73 .71 .88 .85** .81** 1
+4 PC 3.75 .75 .91 .80** .80** .77** 1
+Note. PDI = perceived digital inquiry, EE = emotional engagement, CE = cognitive engagement, 
+PC = perceived creativity. * p < 0.05, ** p < 0.01, *** p < 0.001.
+
+========== Page 9 ==========
+
+438 X. WENG AND T. K. F. CHIU
+creativity were the endogenous variables. In the analysis, all the variables were standardized to 
+minimize potential bias caused by the wide range of variances. We adopted a 95% confidence 
+interval (CI) with 1,000 bootstrap samples to assess statistical significance.
+The analysis revealed that perceived digital inquiry had significant positive direct effects on 
+emotional engagement (β = 0.87, p < 0.001, 95% CI [0.79, 0.95]) and cognitive engagement (β = 0.95, 
+p < 0.001, 95% CI [0.91, 0.99]). However, the effect of perceived digital inquiry on perceived 
+creativity was not significant (β = 0.77, p > 0.05, 95% CI [0.25, 3.03]). Therefore, the results sup -
+ported H1 and H2, but H3 was rejected. The analysis also revealed a significant positive bidi -
+rectional association between emotional engagement and cognitive engagement (β  = 0.54, p < 0.01, 
+95% CI [0.16, 0.87]), supporting H4. Furthermore, we found that emotional engagement had 
+significant positive direct effects on perceived creativity (β = 0.58, p < 0.05, 95% CI [0.20, 1.65]), 
+but cognitive engagement did not have a significant effect on perceived creativity (β = −0.41, 
+ p  > 0.05, 95% CI [-1.76, 0.66]). Correspondingly, H5 was supported and H6 was rejected. The 
+direct and indirect relationships between the variables are shown in  Table 2  . 
+Additionally, the analysis revealed a significant indirect effect of perceived digital inquiry on 
+perceived creativity through emotional engagement (β = 0.51, p < 0.05, 95% CI [0.18, 1.55]). 
+However, the pathway from perceived digital inquiry via cognitive engagement to perceived 
+creativity was not significant (β = −0.39, p > 0.05, 95% CI [-1.75, 0.61]). Therefore, H7 was 
+supported and H8 was rejected.
+Overall, significant direct main effects were found between the four variables, except the 
+associations between perceived digital inquiry and creativity and between cognitive engagement 
+and perceived creativity (see Table 2). The total effect from perceived digital inquiry to creativity 
+was significant (β = 0.88, p < 0.001, 95% CI [0.82, 0.95]). These findings suggest that emotional 
+engagement has a partial mediating effect on the relationship between perceived digital inquiry 
+and creativity.
+  Discussion
+The two primary goals of this study were (i) to examine the direct associations between perceived 
+digital inquiry, emotional engagement, cognitive engagement, and perceived creativity and (ii) to 
+apply the TME to investigate whether emotional engagement and cognitive engagement had 
+indirect effects on the relationship between perceived digital inquiry and creativity. We used SEM 
+to examine the mediating effects of emotional and cognitive engagement in our proposed model.
+The results have a major theoretical contribution. They provided more empirical evidence to 
+support Lawson and Lawson’s ( 2013) relatively new conceptual framework of student engage -
+ment—TME—by presenting the significant relationships that exist among acts of engagement, 
+benefits from engagement, and dispositions for engagement in STEM education. This study 
+supported the application of TME in student STEM learning. We encourage more applications 
+of TME in other learning environments to reveal or explain the interactions between students’ 
+digital inquiry, emotional engagement, cognitive engagement, and creativity.
+    Table 2.       Path coefficients. 
+effect h ypothesis Path
+standardized
+estimate s.e.
+c onfidence interval h ypothesis supported
+yes/nolower upper
+d irect 
+effect
+h1 Pdi → ee 0.87*** 0.04 0.79 0.95 yes
+h2 Pdi → ce 0.95*** 0.02 0.91 0.99 yes
+h3 Pdi → Pc 0.77 0.42 0.25 3.03 no
+h4 ee ↔ ce 0.54** 0.16 0.16 0.87 yes
+h5 ee → Pc 0.58* 0.26 0.20 1.65 yes
+h6 ce → Pc −0.41 0.57 −1.76 0.66 no
+indirect 
+effect
+h7 Pdi → ee → Pc 0.51* 0.23 0.18 1.55 yes
+h8 Pdi → ce → Pc −0.39 0.55 −1.75 0.61 no
+Note. PDI  = perceived digital inquiry, EE = emotional engagement, CE = cognitive engagement, PC = perceived creativity. 
+*p < 0.05, ** p < 0.01, *** p < 0.001.
+
+========== Page 10 ==========
+
+JoURNAl oF  RESEARCH  oN  TECHNoloGy IN  EDUCATIoN 439
+The results also have the following empirical implications. They showed that perceived digital 
+inquiry had direct positive associations with both emotional engagement and cognitive engage -
+ment (H1 and H2). These findings align with previous results showing that perceived inquiry-related 
+features can indicate a disposition that triggers different engagement acts (Wu & Wu, 2020). 
+Students who perceive stronger digital inquiry tend to try out their skills by actively engaging 
+in learning activities emotionally and cognitively (Porat et al., 2018). Moreover, our results indi -
+cate that the direct association between perceived digital inquiry and creativity is not statistically 
+significant (H3). This finding is inconsistent with that of Hwang et al. ( 2018), who reported a 
+significant positive correlation between students’ perceptions of inquiry-related mobile adoption 
+and creativity tendency. This suggests that students’ development of creativity depends on their 
+engagement with a task. Compared with students who engage in STEM activities, disengaged 
+students are less likely to feel that they can create something new.
+A significant positive bidirectional association between emotional engagement and cognitive 
+engagement was identified (H4). This finding aligns with reports of interactions between the two 
+types of engagement (Chiu, 2021, 2022; Chiu et al., 2012, 2022; Dubovi & Tabak, 2021 ; Hong 
+et al., 2020). Emotional engagement encourages cognitive engagement development, and vice versa. 
+Correspondingly, we included the interaction between different engagement acts as a factor influ -
+encing engagement development, supplementary to the suggestion of Fredricks et al. ( 2004 ) that 
+the interaction between the individual and the context affects student engagement.
+Furthermore, emotional engagement had a significant positive effect on perceived creativity 
+(H5). This result supports reports that emotional engagement makes a notable contribution to 
+creativity development (Wang et al., 2022). Being emotionally engaged in a learning activity 
+means that students are devoting their affection resources to the tasks, which will foster their 
+perceptions of competencies such as creativity. However, we did not find a statistically significant 
+association between cognitive engagement and perceived creativity (H6). This finding is incon -
+sistent with studies that reported a significant positive correlation between these two variables 
+(Álvarez-Huerta et al., 2021; Wang et al., 2022). The discrepancy may be because students with 
+strong cognitive engagement in STEM digital making activities are more likely to feel challenged 
+or frustrated. A challenging experience with a heavy cognitive load could lead students to per -
+ceive their competencies negatively as a result of cognitive overload and frustration (Chiu & 
+Churchill, 2015 ; Reynolds & Caperton,  2011 ). This finding indicates the need for educators to 
+carefully design learning tasks with appropriate difficulty levels for students. It can avoid the 
+possible negative effects that may be caused by cognitive overload.
+We next examined the indirect relationships between the variables. We found an indirect 
+effect of emotional engagement on the relationship between perceived digital inquiry and cre -
+ativity, supporting H7. This result aligns with the finding of Malik et al. ( 2020) that emotional 
+engagement mediates the association between students’ digital inquiry related to behavior and 
+creativity. As a direct association between perceived digital inquiry and perceived creativity was 
+not found in the present study, this mediation effect suggests an alternative approach to pro -
+moting perceived creativity by developing students’ emotional engagement. Nevertheless, it is 
+notable that there was no indirect effect of cognitive engagement on the relationship between 
+perceived digital inquiry and creativity (H8). The result is inconsistent with Sun’s ( 2020) con -
+clusion that cognitive engagement can partially mediate the relationship between digital 
+inquiry-related behavior and students’ creativity. A possible reason for this inconsistency is that 
+the contradictory relationship between cognitive engagement and perceived creativity caused 
+by cognitive load (Reynolds & Caperton, 2011) may eliminate the mediating effect of cognitive 
+engagement on the association between perceived digital inquiry and creativity. Another potential 
+explanation is that in STEM education, making creative outcomes requires long-term investment. 
+Interest and joy would encourage students to invest in learning for a longer period. The 
+user-friendly digital making platforms adopted, including Scratch, Arduino Kits, and Microbits, 
+were designed to foster learners’ interest and joy in digital making. They can be promising 
+tools to promote student creativity in STEM learning.
+
+========== Page 11 ==========
+
+440 X. WENG AND T. K. F. CHIU
+Overall, our results show that in secondary school STEM education, perceived digital inquiry 
+can be an important personal resource that directly improves students’ emotional and cognitive 
+engagement. Moreover, emotional engagement can mediate the positive relationship between 
+perceived digital inquiry and perceived creativity. Therefore, interventions aimed at fostering 
+perceived digital inquiry may be useful for developing self-perceived creativity of secondary 
+school STEM learners. We recommend that teachers should make efforts to emotionally engage 
+students in digital inquiry activities when the learning objective is creativity (Chiu et al., 2020; 
+Weng, Chiu, & Jong, 2022; Weng, Cui, et al., 2022). The more emotionally engaged students 
+feel with their learning tasks, the more likely it is that they will feel that they can create some -
+thing new.
+Our findings provide two practical suggestions for fostering creativity in digital-supported 
+STEM learning. The first suggestion is that STEM teachers can apply different strategies to 
+make students feel more engaged in utilizing digital tools for inquiry-based learning. For 
+example, they could use various digital making platforms and tools to encourage students 
+to complete small projects. The second suggestion is that instead of emphasizing STEM 
+disciplinary knowledge development, STEM teachers are encouraged to enhance students’ 
+STEM interest and identity first before STEM learning. This enhanced affection would lead 
+to greater emotional engagement. The students would sustain their STEM digital inquiry 
+learning for more creative work. To achieve the desired outcomes, the teachers could share 
+some alumni’s success stories of STEM learning, and show the interesting and inspiring 
+STEM products.
+  Conclusion, limitations, and future directions
+This study investigated the direct relationships between perceived digital inquiry, emotional 
+engagement, cognitive engagement, and perceived creativity, and the indirect effects of emotional 
+engagement and cognitive engagement on the association between perceived digital inquiry and 
+creativity. The results imply that STEM digital making activities show promise for promoting 
+students’ perceived competencies and learning engagement.
+However, this study has some limitations. First, we cannot infer causal relationships between 
+the variables because of the cross-sectional research design. Besides, because the number of 
+participants was relatively small, the research findings should be confirmed by studies with a 
+larger sample size. Moreover, other types of data sources such as qualitative interviews or class -
+room observations should be collected to enhance the explanatory power of the study. Additionally, 
+each of the four variables was evaluated using only three items. As the dimensions involved are 
+complex, it is unclear whether the measurements satisfactorily reflect these four variables. 
+Furthermore, the measurements were self-reported, so the relationships between perceived cre -
+ativity and the other variables may have been inflated or deflated. Nevertheless, the CFA indicated 
+that four separate factors were derived from the constructs. Despite these limitations, by following 
+a TME framework, this study provides the first evidence of the interactions between secondary 
+STEM learners’ perceived competencies and their engagement.
+ This programme was designed to enhance perceived digital inquiry holistically in line with 
+self-perception theory (Teng,  2018  ). The adoption of digital tools, scientific inquiry, and 
+hands-on experience obtained through digital making activities foster students’ competencies 
+and learning engagement (Stork,  2020 ). Accordingly, future studies could evaluate the out -
+comes and report students’ feedback on the digital making programme in terms of develop -
+ments in their self-perceived competencies and learning engagement. Furthermore, future 
+research could use other frameworks to investigate the associations between student perceived 
+digital inquiry, emotional engagement, cognitive engagement, and perceived creativity in STEM 
+digital making environments. Future studies can also be conducted in other learning contexts, 
+such as an Artificial Intelligence-facilitated learning environment instead of a STEM-based 
+environment.
+
+========== Page 12 ==========
+
+JoURNAl oF  RESEARCH  oN  TECHNoloGy IN  EDUCATIoN 441
+  Disclosure statement
+This study got ethical clearance from the corresponding author’s university. There is no conflict of interests 
+between the author and participants.
+  Funding
+This study is funded by General Research Council, Hong Kong SAR (project code: 2191277).
+  Notes on contributors
+Xiaojing Weng  is currently a Post-doctoral Fellow in the Department of Curriculum and Instruction, The 
+Chinese University of Hong Kong. Her research focuses on educational technology, instructional design, and 
+21st-century skills.
+Thomas K.F. Chiu  is an assistant professor in the Department of Curriculum and Instruction at the Faculty of 
+Education at The Chinese University of Hong Kong. His research interests include Digital Education, STEM 
+education, and Teacher Education.
+  ORCID
+Xiaojing Weng  http://orcid.org/0000-0003-2248-5312
+Thomas K. F . Chiu  http://orcid.org/0000-0003-2887-5477
+  Data availability statement
+The datasets used for the current study are available from the corresponding author on reasonable request.
+  References
+     Álvarez-Huerta ,  P .  ,   Muela ,  A.  , &   Larrea ,  I.    (        2021 ).  Student engagement and creative confidence beliefs in higher 
+education. Thinking Skills and Creativity , 40, 100821. https://doi.org/10.1016/j.tsc.2021.100821
+     Anderson ,  R. C.  , &   Haney ,  M.    (  2021 ).  Reflection in the creative process of early adolescents: The mediating roles 
+of creative metacognition, self-efficacy, and self-concept. Psychology of Aesthetics, Creativity, and the Arts , 15(4), 
+612–626. https://doi.org/10.1037/aca0000324
+     Barbot ,  B.    (  2020 ).  Creativity and self‐esteem in adolescence: A study of their domain‐specific, multivariate rela -
+tionships. The Journal of Creative Behavior , 54(2), 279–292. https://doi.org/10.1002/jocb.365
+     Bempechat ,  J.  , &   Shernoff ,  D. J.    (  2012 ).  Parental influences on achievement motivation and student engagement . 
+In S. L. Christenson, A. L. Reschly, & C. Wylie (Eds.), Handbook of research on student engagement.  (pp. 
+56–96). Springer.
+     Bruce ,  B. C.  , &   Casey ,  L.    (  2012 ).  The practice of inquiry: A pedagogical ‘sweet spot’ for digital literacy?   Computers 
+in the Schools , 29(1–2), 191–206. https://doi.org/10.1080/07380569.2012.657994
+     Chiu ,  M. M.  ,   Pong ,  S. L.  ,   Mori ,  I.  , &   Chow ,  B. W . Y .    (    2012 ).  Immigrant students’ emotional and cognitive en -
+gagement at school: A multilevel analysis of students in 41 countries. Journal of Youth and Adolescence , 41(11), 
+1409–1425. https://doi.org/10.1007/s10964-012-9763-x
+    Chiu,   T. K. F . (    2021 ).  Digital support for student engagement in blended learning based on Self-determination 
+Theory. Computers in Human Behavior, 124, 106909. http://doi.org/10.1016/j.chb.2021.106909
+    Chiu, T. K. F .   (                  2022 ).  Applying the Self-determination Theory (SDT) to explain student engagement in online 
+learning during the COVID-19 pandemic.  Journal of Research on Technology in Education, 54(sup1), 14–30. 
+http://doi.org/10.1080/15391523.2021.1891998
+    Chiu, T. K. F ., Sun, J. C. Y ., & Ismailov, M.   (                  2022 ).  Investigating the relationship of technology learning support 
+to digital literacy from the perspective of Self-Determination Theory. Educational Psychology , Advanced online 
+publication. https://doi.org/10.1080/01443410.2022.2074966
+    Chiu, T. K. F ., & Churchill, D.   (    2015 ).  Exploring the characteristics of an optimal design of digital materials for 
+concept learning in mathematics: multimedia learning and variation theory. Computers & Education, 82,  
+280–291 . https://doi.org/10.1016/j.compedu.2014.12.001
+    Chiu, T. K. F ., Jong, M. S. Y ., & Mok, I. A. C.   (    2020 ).  Does learner expertise matter when designing emotional 
+multimedia for learners of primary school mathematics?  Educational Technology Research and Development,  
+68, 2305–2320. https://doi.org/10.1007/s11423-020-09775-4
+
+========== Page 13 ==========
+
+442 X. WENG AND T. K. F. CHIU
+     de Jong ,  T.  ,   Gillet ,  D.  ,   Rodríguez-Triana ,  M. J.  ,   Hovardas ,  T.  ,   Dikke ,  D.  ,   Doran ,  R.  ,   Dziabenko ,  O.  ,   Koslowsky , 
+ J.  ,   Korventausta ,  M.  ,   Law ,  E.  ,   Pedaste ,  M.  ,   Tasiopoulou ,  E.  ,   Vidal ,  G.  , &   Zacharia ,  Z. C.    (      2021 ).  Understanding 
+teacher design practices for digital inquiry-based science learning: The case of Go-Lab. Educational Technology 
+Research and Development: ETR & D , 69(2), 417–444. https://doi.org/10.1007/s11423-020-09904-z
+     Dubovi ,  I.  , &   Tabak ,  I.    (      2021 ).  Interactions between emotional and cognitive engagement with science on 
+Y ouTube. Public Understanding of Science (Bristol, England) , 30 (6), 759–776. https://doi.
+org/10.1177/0963662521990848
+     Fischer ,  C.  ,   Malycha ,  C. P .  , &   Schafmann ,  E.    (  2019 ).  The influence of intrinsic motivation and synergistic ex -
+trinsic motivators on creativity and innovation. Frontiers in Psychology , 10, 137. https://doi.org/10.3389/
+fpsyg.2019.00137
+     Fredricks ,  J. A.  ,   Blumenfeld ,  P . C.  , &   Paris ,  A. H.    (  2004 ).  School engagement: Potential of the concept, state of 
+the evidence. Review of Educational Research , 74(1), 59–109. https://doi.org/10.3102/00346543074001059
+     Fredricks ,  J. A.  ,   Hofkens ,  T.  ,   Wang ,  M. T.  ,   Mortenson ,  E.  , &   Scott ,  P .    (  2018 ).  Supporting girls’ and boys’ engage-
+ment in math and science learning: A mixed methods study. Journal of Research in Science Teaching , 55(2), 
+271–298. https://doi.org/10.1002/tea.21419
+     Gallagher ,  D.  , &   Grimm ,  L. R.    (  2018 ).  Making an impact: The effects of game making on creativity and spatial 
+processing. Thinking Skills and Creativity , 28, 138–149. https://doi.org/10.1016/j.tsc.2018.05.001
+     Guan ,  J. Q.  ,   Wang ,  L. H.  ,   Chen ,  Q.  ,   Jin ,  K.  , &   Hwang ,  G. J.    (  2021 ).  Effects of a virtual reality-based pottery 
+making approach on junior high school students’ creativity and learning engagement. Interactive Learning 
+Environments, Advanced Online Publication , 1–17. https://doi.org/10.1080/10494820.2021.1871631
+     Hair ,  J. F . ,  Jr.  ,   Black ,  W . C.  ,   Babin ,  B. J.  ,   Anderson ,  R. E.  , &   Tatham ,  R. L.    (  2010 ).  SEM: An introduction. 
+Multivariate data analysis: A global perspective  (7th ed., pp. 629–686). Pearson Education.
+     Hall ,  A.  , &   Miro ,  D.    (    2016 ).  A study of student engagement in project‐based learning across multiple approach -
+es to STEM education programs. School Science and Mathematics , 116(6), 310–319. https://doi.org/10.1111/
+ssm.12182
+     Händel ,  M.  ,   Stephan ,  M.  ,   Gläser-Zikuda ,  M.  ,   Kopp ,  B.  ,   Bedenlier ,  S.  , &   Ziegler ,  A.    (  2022 ).  Digital readiness and its 
+effects on higher education students’ socio-emotional perceptions in the context of the COVID-19 pandemic. 
+Journal of Research on Technology in Education , 54(2), 267–280. https://doi.org/10.1080/15391523.2020.1846147
+     Honey ,  M.  ,   Pearson ,  G.  , &   Schweingruber ,  H. A.    (Eds.) (    2014 ).  STEM Integration in K-12 Education: Status, 
+Prospects, and An Agenda for Research . National Academies Press. https://doi.org/10.17226/18612
+     Hong ,  W .  ,   Zhen ,  R.  ,   Liu ,  R. D.  ,   Wang ,  M. T.  ,   Ding ,  Y .  , &   Wang ,  J.    (      2020 ).  The longitudinal linkages among 
+Chinese children’s behavioural, cognitive, and emotional engagement within a mathematics context. Educational 
+Psychology, 40(6), 666–680. https://doi.org/10.1080/01443410.2020.1719981
+     Howard ,  S. K.  ,   Ma ,  J.  , &   Y ang ,  J.    (  2016 ).  Student rules: Exploring patterns of students’ computer-efficacy and 
+engagement with digital technologies in learning. Computers & Education , 101, 29–42. https://doi.org/10.1016/j.
+compedu.2016.05.008
+     Hwang ,  G. J.  ,   Lai ,  C. L.  ,   Liang ,  J. C.  ,   Chu ,  H. C.  , &   Tsai ,  C. C.    (      2018 ).  A long-term experiment to investigate 
+the relationships between high school students’ perceptions of mobile learning and peer interaction and 
+higher-order thinking tendencies. Educational Technology Research and Development , 66(1), 75–93. https://doi.
+org/10.1007/s11423-017-9540-3
+     Kaufman ,  J. C.    (  2019 ).  Self-assessments of creativity: Not ideal, but better than you think .  Psychology of Aesthetics, 
+Creativity, and the Arts , 13(2), 187–192. https://doi.org/10.1037/aca0000217
+     Kaufman ,  J. C.  ,   Beghetto ,  R. A.  , &   Watson ,  C.    (      2016 ).  Creative metacognition and self-ratings of creative per -
+formance: A 4-C perspective. Learning and Individual Differences , 51 , 394–399. https://doi.
+org/10.1016/j.lindif.2015.05.004
+     Laguía ,  A.  ,   Moriano ,  J. A.  , &   Gorgievski ,  M. J.    (    2019 ).  A psychosocial study of self-perceived creativity and 
+entrepreneurial intentions in a sample of university students. Thinking Skills and Creativity , 31, 44–57. https://
+doi.org/10.1016/j.tsc.2018.11.004
+     Lawson ,  M. A.  , &   Lawson ,  H. A.    (              2013 ).  New conceptual frameworks for student engagement research, policy, 
+and practice. Review of Educational Research , 83(3), 432–479. https://doi.org/10.3102/0034654313480891
+     Li ,  S.  ,   Lajoie ,  S. P .  ,   Zheng ,  J.  ,   Wu ,  H.  , &   Cheng ,  H.    (  2021 ).  Automated detection of cognitive engagement to 
+inform the art of staying engaged in problem-solving. Computers & Education , 163, 104114. https://doi.
+org/10.1016/j.compedu.2020.104114
+     Lindgren ,  R.  , &   Johnson-Glenberg ,  M.    (  2013 ).  Emboldened by embodiment: Six precepts for research on em -
+bodied learning and mixed reality. Educational Researcher, 42(8), 445–452. https://doi.org/10.3102/0013189X13511661
+     Malik ,  M. J.  ,   Ahmad ,  M.  ,   Kamran ,  M. R.  ,   Aliza ,  K.  , &   Elahi ,  M. Z.    (    2020 ).  Student use of social media, aca -
+demic performance, and creativity: The mediating role of intrinsic motivation. Interactive Technology and Smart 
+Education, 17(4), 403–415. https://doi.org/10.1108/ITSE-01-2020-0005
+     Marty ,  P . F .  ,   Alemanne ,  N. D.  ,   Mendenhall ,  A.  ,   Maurya ,  M.  ,   Southerland ,  S. A.  ,   Sampson ,  V .  ,   Douglas ,  I.  ,   Kazmer ,  M. 
+M.  ,   Clark ,  A.  , &   Schellinger ,  J.    (    2013 ).  Scientific inquiry, digital literacy, and mobile computing in informal learn -
+ing environments. Learning, Media and Technology, 38(4), 407–428. https://doi.org/10.1080/17439884.2013.783596
+     Ng ,  W .    (  2012 ).  Can we teach digital natives digital literacy?   Computers & Education   ,  59 ( 3 ),  1065 – 1078 . https://
+doi.org/10.1016/j.compedu.2012.04.016
+
+========== Page 14 ==========
+
+JoURNAl oF  RESEARCH  oN  TECHNoloGy IN  EDUCATIoN 443
+     Ninaus ,  M.  ,   Greipl ,  S.  ,   Kiili ,  K.  ,   Lindstedt ,  A.  ,   Huber ,  S.  ,   Klein ,  E.  ,   Karnath ,  H.-O.  , &   Moeller ,  K.    (  2019 ).  Increased 
+emotional engagement in game-based learning–A machine learning approach on facial emotion detection data. 
+Computers & Education , 142, 103641. https://doi.org/10.1016/j.compedu.2019.103641
+     Orkibi ,  H.  , &   Ram-Vlasov ,  N.    (  2019 ).  Linking trauma to posttraumatic growth and mental health through emo -
+tional and cognitive creativity. Psychology of Aesthetics, Creativity, and the Arts , 13(4), 416–430. https://doi.
+org/10.1037/aca0000193
+     Pande ,  M.  , &   Bharathi ,  S. V .    (  2020 ).  Theoretical foundations of design thinking–A constructivism learning ap -
+proach to design thinking. Thinking Skills and Creativity , 36, 100637. https://doi.org/10.1016/j.tsc.2020.100637
+Pekrun, R., & Linnenbrink-Garcia, L. (2012). Academic emotions and student engagement. In S. L. Christenson, 
+A. L. Reschly, & C. Wylie (Eds.), Handbook of research on student engagement.  (pp. 259–282). Springer.
+     Pietarinen ,  J.  ,   Soini ,  T.  , &   Pyhältö ,  K.    (  2014 ).  Students’ emotional and cognitive engagement as the determinants 
+of well-being and achievement in school. International Journal of Educational Research , 67, 40–51. https://doi.
+org/10.1016/j.ijer.2014.05.001
+     Porat ,  E.  ,   Blau ,  I.  , &   Barak ,  A.    (    2018 ).  Measuring digital literacies: Junior high-school students’ perceived com -
+petencies versus actual performance. Computers & Education , 126, 23–36. https://doi.org/10.1016/j.compe -
+du.2018.06.030
+     Reynolds ,  R.  , &   Caperton ,  I. H.    (    2011 ).  Contrasts in student engagement, meaning-making, dislikes, and chal -
+lenges in a discovery-based program of game design learning. Educational Technology Research and Development , 
+59(2), 267–289. https://doi.org/10.1007/s11423-011-9191-8
+     Richter ,  A. W .  ,   Hirst ,  G.  ,   Van Knippenberg ,  D.  , &   Baer ,  M.    (  2012 ).  Creative self-efficacy and individual creativ -
+ity in team contexts: Cross-level interactions with team informational resources. The Journal of Applied 
+Psychology, 97(6), 1282–1290. https://doi.org/10.1037/a0029359
+     Silvia ,  P . J.  ,   Wigert ,  B.  ,   Reiter-Palmon ,  R.  , &   Kaufman ,  J. C.    (    2012 ).  Assessing creativity with self-report scales: 
+A review and empirical evaluation. Psychology of Aesthetics, Creativity, and the Arts , 6(1), 19–34. https://doi.
+org/10.1037/a0024071
+     Skinner ,  E. A.  ,   Kindermann ,  T. A.  , &   Furrer ,  C. J.    (  2009 ).  A motivational perspective on engagement and disaf -
+fection: Conceptualization and assessment of children’s behavioral and emotional participation in academic 
+activities in the classroom. Educational and Psychological Measurement , 69(3), 493–525. https://doi.
+org/10.1177/0013164408323233
+     Stork ,  M. G.    (  2020 ).  Supporting twenty-first century competencies using robots and digital storytelling .  Journal 
+of Formative Design in Learning , 4(1), 43–50. https://doi.org/10.1007/s41686-019-00039-w
+     Struyf ,  A.  ,   De Loof ,  H.  ,   Boeve-de Pauw ,  J.  , &   Van Petegem ,  P .    (    2019 ).  Students’ engagement in different STEM 
+learning environments: Integrated STEM education as promising practice? International Journal of Science 
+Education, 41(10), 1387–1407. https://doi.org/10.1080/09500693.2019.1607983
+     Sun ,  X.    (      2020 ).  Social media use and student creativity: The mediating role of student engagement .  Social Behavior 
+and Personality: An International Journal , 48(10), 1–8. https://doi.org/10.2224/sbp.9356
+     Taines ,  C.    (  2012 ).  Intervening in alienation: The outcomes for urban youth of participating in school activism . 
+American Educational Research Journal , 49(1), 53–86. https://doi.org/10.3102/0002831211411079
+     Tan ,  A. G.  ,   Ho ,  V . X. H.  ,   Ho ,  E. L. F .  , &   Ow ,  S.    (  2008 ).  High school students’ perceived creativity self-efficacy 
+and emotions in a service learning context. The International Journal of Creativity and Problem Solving , 18, 
+115–126.
+     Teng ,  C. I.    (  2018 ).  Managing gamer relationships to enhance online gamer loyalty: The perspectives of social 
+capital theory and self-perception theory. Computers in Human Behavior , 79, 59–67. https://doi.org/10.1016/j.
+chb.2017.10.024
+     Wang ,  H.  ,   Wang ,  L.  , &   Zhu ,  J.    (          2022 ).  Moderated mediation model of the impact of autonomous motivation on 
+postgraduate students’ creativity. Thinking Skills and Creativity , 43, 100997. https://doi.org/10.1016/j.
+tsc.2021.100997
+    Weng, X. J., Chiu, T. K. F ., & Jong, M. S. Y .   (    2022 ).  Applying relatedness to explain learning outcomes of STEM 
+maker activities . Frontiers in Psychology,  800569. https://doi.org/10.3389/fpsyg.2021.800569  
+    Weng, X. J., Chiu, T. K. F ., & Tsang, C. C.   (    2022 ).  Promoting student creativity and entrepreneurship through 
+real-world problem-based maker education , Thinking skills and Creativity, Advanced online publication.  https://
+doi.org/10.1016/j.tsc.2022.101046  
+    Weng, X. J., Cui, Z., Ng, O-L, & Jong, M. S. Y ., & Chiu T. K. F .   (    2022 ).  Characterizing students’ 4C skill devel -
+opment during problem-based digital making , Journal of Science Education and Technology. Advanced online 
+publication. https://doi.org/10.1007/s10956-022-09961-4
+     Wu ,  P . H.  , &   Wu ,  H. K.    (        2020 ).  Constructing a model of engagement in scientific inquiry: Investigating rela -
+tionships between inquiry-related curiosity, dimensions of engagement, and inquiry abilities. Instructional 
+Science, 48(1), 79–113. https://doi.org/10.1007/s11251-020-09503-8
+     Y ang ,  Y .  ,   Xu ,  X.  ,   Liu ,  W .  , &   Pang ,  W .    (    2020 ).  Hope and creative self-efficacy as sequential mediators in the re -
+lationship between family socioeconomic status and creativity. Frontiers in Psychology , 11, 438. https://doi.
+org/10.3389/fpsyg.2020.00438
+     Zhou ,  C.  ,   Chen ,  H.  , &   Luo ,  L.    (    2014 ).  Students’ perceptions of creativity in learning information technology (IT) 
+in project groups. Computers in Human Behavior , 41, 454–463. https://doi.org/10.1016/j.chb.2014.09.058
