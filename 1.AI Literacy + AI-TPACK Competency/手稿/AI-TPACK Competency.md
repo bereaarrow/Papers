@@ -1,14 +1,22 @@
-﻿**The Impact of <a name="ole_link3"></a><a name="ole_link5"></a>AI Literacy on AI-TPACK Competency: The Mediating Role of AI-Assisted Creativity and AI Self-Efficacy**
+﻿**Project Title: <a name="ole_link12"></a>The Impact of <a name="ole_link5"></a><a name="ole_link3"></a><a name="ole_link11"></a>AI Literacy on AI-TPACK Competency: The Mediating Role of AI-Assisted Creativity and AI Self-Efficacy**
 
-**Abstract**
+Applicant: Dongmin Zhang
+
+Supervisor: Dr. Kim Rowston; Email: <Kim.rowston@acu.edu.au>
+
+ACU Strathfield Campus, School of Education, Faculty of Education and Arts
+
+<a name="ole_link6"></a>**Abstract (Synopsis)**
 
 This study aims to address the significant research gap in understanding the relationship between AI Literacy** and AI-TPACK Competency in K-12 schools. While both concepts have gained increasing attention, their interconnections remain unexplored. Leveraging the UTAUT-TPACK and AI-TPACK models, this study investigated how AI Literacy, mediated by AI-Assisted Creativity and AI Self-Efficacy, influences English teachers’ ability to integrate AI into their classrooms effectively. The findings of this study will provide valuable insights into the factors that promote effective AI integration in English education, ultimately contributing to the development of strategies to enhance teacher preparedness and student learning outcomes in the age of AI.
 
-**Keywords**: AI Literacy; AI-TPACK Competency; AI-Assisted Creativity; AI Self-Efficacy; Intelligence; AI Teaching
+**Keywords**: AI Literacy; AI-TPACK Competency; AI-Assisted Creativity; AI Self-Efficacy; Intelligence; K-12; 
 
 **1. Introduction**
 
-<a name="_toc371077877"></a>As an emerging field of computer science, artificial intelligence (AI) has profoundly impacted education (Celik, 2023; Montebello, 2018). Recently, there has been growing interest in exploring the interactions between people and AI and AI education systems. <a name="_hlk182076296"></a>Nonetheless, research on AI in education has focused on the technical aspects of AI development (An et al., 2023; Divekar et al., 2022), with little attention paid to the factors that shape its use in English education settings (An et al., 2023; Zawacki-Richter et al., 2019). Also, there exists a scarce number of studies that drive the use of AI technologies into educational theories <a name="_hlk181793444"></a>and teacher AI teaching (Su et al., 2023). However, as Lindner and Berges (2020) claimed, in the ﬁeld of AI, there is a dearth of investigations focusing on teacher AI teaching.
+<a name="_toc371077877"></a>*1.1. Research Introduction and Research Gaps*
+
+As an emerging field of computer science, artificial intelligence (AI) has profoundly impacted education (Celik, 2023; Montebello, 2018). Recently, there has been growing interest in exploring the interactions between people and AI and AI education systems. <a name="_hlk182076296"></a>Nonetheless, research on AI in education has focused on the technical aspects of AI development (An et al., 2023; Divekar et al., 2022), with little attention paid to the factors that shape its use in English education settings (An et al., 2023; Zawacki-Richter et al., 2019). Also, there exists a scarce number of studies that drive the use of AI technologies into educational theories <a name="_hlk181793444"></a>and teacher AI teaching (Su et al., 2023). However, as Lindner and Berges (2020) claimed, in the ﬁeld of AI, there is a dearth of investigations focusing on teacher AI teaching.
 
 The AI shift has generated challenges and opportunities for <a name="_hlk182745997"></a>AI teaching (Ding et al., 2024; Pan & Wang, 2025; Wijaya et al., 2024). Although AI has great potential to facilitate learning, the integration of new technologies into classroom teaching generally requires teachers to overcome multilayered barriers (Al-Abdullatif & Alsubaie, 2024; An et al., 2023; Tsai & Chai, 2012). Some challenges in introducing AI into education include teachers’ lack of AI knowledge and skills, low confidence, lack of curriculum design, and lack of teaching guidelines (Su et al., 2023; Su, 2024; L. Zhao et al., 2022). However, research has shown that some teachers have low AI-TPACK competency levels in AI teaching environments (Chan & Tang, 2024; Fan et al., 2025). 45% of teachers experience challenges and stress when integrating AI technology that they have encountered or expect to experience in the near future (Ding et al., 2024). A crucial aspect of this issue is teachers’ lack of AI literacy and AI-TPACK competency in effectively integrating AI tools into classrooms (Crompton & Burke, 2023; Ding et al., 2024).
 
@@ -18,11 +26,16 @@ Second, although interest in <a name="ole_link1"></a>AI Literacy and AI integrat
 
 Although Taiwan’s Ministry of Education has actively promoted the Digital Learning Enhancement Plan and incorporated generative AI into national digital learning platforms for primary and secondary schools, systematic AI curricula, teacher training resources, and empirical evidence on teachers’ AI-related competencies in Taiwanese elementary, junior high, and senior high schools remain scarce (Wong et al., 2020; H.-G. Zhao et al., 2024). Most existing AI literacy and AI-TPACK studies conducted in Taiwan have focused on university students or pre-service teachers, leaving a notable gap regarding how in-service English teachers in K-12 settings perceive, develop, and apply AI literacy in their daily instruction.
 
+<a name="ole_link10"></a>*1.2. Research Aims and Objectives*
+
 <a name="_hlk182857069"></a>To address the identified research gaps, this study investigates the impact of AI Literacy (Independent Variable) on AI-TPACK Competency (Dependent Variable) through the mediating effects of AI-Assisted Creativity and AI Self-Efficacy (Mediator Variables) in a mediated-effects research model. Based on the UTAUT-TPACK Model and AI-TPACK Model, this study aims to bridge these gaps by investigating the interrelationships between these constructs.
 
-**2. <a name="_hlk182304335"></a>Literature Review and Hypothesis**
+<a name="ole_link8"></a>*1.3. Expected Research Contribution*
 
-<a name="_hlk180926700"></a>*2.1. AI Literacy<a name="_hlk181610681"></a> (AIL)*
+
+**2. <a name="_hlk180926700"></a>Research Background, Literature Review, and Hypothesis**
+
+*2.1. AI Literacy<a name="_hlk181610681"></a> (AIL)*
 
 The increasing incorporation of AI into teaching and learning environments has sparked interest in AI literacy (Al-Abdullatif & Alsubaie, 2024; Wang et al., 2023). One approach to AI education is to improve AI literacy (Casal-Otero et al., 2023; Chung et al., 2025). Nevertheless, the effective classroom integration of AI demands that student be AI-literate, encompassing understanding, utilization, monitoring, and critical reflection on AI applications in teaching (Ding et al., 2024).
 
@@ -64,7 +77,7 @@ AI self-efficacy refers to confidence and individual perception of the ability t
 
 AISE is more than one’s judgment of one’s own capability to apply technological skills; it is a self-assessment of the specific individual skills involved in using AI technologies or products. Accordingly, based on previous technology-related self-efficacy research, the AISE can be defined as an individual’s general belief in their ability to use and interact with AI. AISE can be viewed as a holistic perception or belief in multiple elements of the school environment. Furthermore, in this research context, AISE concentrates on the variable itself rather than the model evaluation procedure or response, which facilitates the processing of AISE as a single variable independent of various predecessors or consequences (Bewersdorff et al., 2025).
 
-*2.5. The UTAUT-TPACK Model and AI-TPACK Model*
+*2.5. Theoretical Framework and Research Model*
 
 This study’s theory is rooted in two fundamental approaches to teachers’ knowledge: <a name="_hlk225762654"></a><a name="_hlk182248198"></a>the UTAUT-TPACK theory model by Tang et al. (2024) and the AI-TPACK theory model by Celik (2023). AI-TPACK underscores the significance of teachers’ knowledge and skills in utilizing technology to enrich teaching and learning experiences. The UTAUT-TPACK theory model is a technology acceptance model proposed to explain teachers’ AI teaching behaviors (Tang et al., 2024). 
 
@@ -108,7 +121,7 @@ H9. AI Self-Efficacy mediates the effect of AI Literacy on <a name="_hlk18267711
 
 Based on the <a name="_hlk182236094"></a>theory of UTAUT-TPACK and the AI-TPACK model, this study introduces the independent variable (AI Literacy), mediating variables (AI-Assisted Creativity and AI Self-Efficacy), and dependent variables (<a name="_hlk182158501"></a>AI-TPACK Competency) to propose a research model of the impact of AI Literacy on AI-TPACK Competency. The research model based on these hypotheses is illustrated in Fig. 1.
 
-![](Aspose.Words.caba0871-419a-4351-9d72-9727f77d7906.001.png)
+![](Aspose.Words.575d2123-8de3-4960-b607-6291091d52c8.001.png)
 
 **Fig. 1**.
 
@@ -134,9 +147,7 @@ To measure teachers’ levels of AI-assisted creativity, we adopted the AI-assis
 
 <a name="_hlk182145480"></a>This study used the scale developed by Chiu et al. (2024) to assess AI Self-Efficacy. The scale considers teachers’ comprehension of AI, engagement in learning about AI, and ability to use AI for educational purposes. The scale consists of six dimensions: AI knowledge, AI pedagogy, AI evaluation, AI ethics, Human-centered education, and professional engagement. The scale is suitable for K-12 teachers and may also be applicable to higher-education instructors.
 
-*3.4. Data collection*
-
-*3.5. Data Analysis Procedure*
+<a name="ole_link7"></a>*3.4. Data collection*
 
 This study will employ a structural equation modeling (SEM) approach using RStudio (version 2026.07.1) to analyze the data, including the measurement model, structural model, and Confirmatory Factor Analysis (CFA).
 
@@ -145,6 +156,12 @@ First, the variables will be examined for outliers using z-values. To describe t
 CFA will be conducted with initial data collected from teachers to assess the structural or factorial validity of the Questionnaire. CFA is chosen because of its unique ability to test whether the hypothesized factor structure adequately represents the relationships between latent constructs and their observed indicators in pre-defined, theory-derived models (Tavakol & Wetzel, 2020). CFA will be conducted from the lavaan package in R (Rosseel, 2012). Before conducting CFA, data screening procedures will be conducted, including the examination of missing data, outliers, and univariate and multivariate normality.
 
 SEM will be conducted through the following steps: model specification, model identification, model estimation, model testing, and model modification (Schumacker & Lomax, 2015). The model will be specified and identified based on the conceptual framework outlined in the literature section. A bootstrapping method with robust maximum likelihood estimation will be used for model estimation. Robust maximum likelihood estimation with bootstrapped standard errors was selected, rather than PLS-SEM, because this combination maintains stable and unbiased parameter estimates even at moderate sample sizes, without the interpretive limitations associated with PLS-based composite modeling (Schumacker & Lomax, 2015). Initially, the measurement model estimations will be examined to verify whether all factor loadings are significant. Subsequently, model fit indices will be examined. We will use Chi-square, CFI, TLI, RMSEA, and SRMR as fit indices. For a good model fit, CFI and TLI values should be 0.90 or above, while RMSEA and SRMR values should be below 0.08 (Schumacker & Lomax, 2015). The mediation analysis using structural equation modeling (SEM) with the lavaan package in RStudio will be utilized to examine the direct, indirect, and total effects. After evaluating the path coefficients, the results will be reported.
+
+<a name="ole_link9"></a>*3.5. Timeline/Work Plan*
+
+
+*3.6. Resources and Feasibility*
+
 
 
 **
